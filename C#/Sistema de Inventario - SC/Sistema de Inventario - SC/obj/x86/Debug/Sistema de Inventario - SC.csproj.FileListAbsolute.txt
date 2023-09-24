@@ -1,0 +1,100 @@
+C:\Users\VictorManuel\Documents\visual studio 2010\projects\Sistema de Inventario - SC\Sistema de Inventario - SC\bin\Debug\Sistema de Inventario - SC.exe
+C:\Users\VictorManuel\Documents\visual studio 2010\projects\Sistema de Inventario - SC\Sistema de Inventario - SC\bin\Debug\Sistema de Inventario - SC.pdb
+C:\Users\VictorManuel\Documents\visual studio 2010\projects\Sistema de Inventario - SC\Sistema de Inventario - SC\obj\x86\Debug\Sistema de Inventario - SC.csprojResolveAssemblyReference.cache
+C:\Users\VictorManuel\Documents\visual studio 2010\projects\Sistema de Inventario - SC\Sistema de Inventario - SC\obj\x86\Debug\Sistema_de_Inventario___SC.Properties.Resources.resources
+C:\Users\VictorManuel\Documents\visual studio 2010\projects\Sistema de Inventario - SC\Sistema de Inventario - SC\obj\x86\Debug\Sistema de Inventario - SC.csproj.GenerateResource.Cache
+C:\Users\VictorManuel\Documents\visual studio 2010\projects\Sistema de Inventario - SC\Sistema de Inventario - SC\obj\x86\Debug\Sistema de Inventario - SC.exe
+C:\Users\VictorManuel\Documents\visual studio 2010\projects\Sistema de Inventario - SC\Sistema de Inventario - SC\obj\x86\Debug\Sistema de Inventario - SC.pdb
+C:\Users\VictorManuel\Documents\visual studio 2010\projects\Sistema de Inventario - SC\Sistema de Inventario - SC\obj\x86\Debug\Sistema_de_Inventario_SC.mainForm.resources
+C:\Users\VictorManuel\Documents\visual studio 2010\projects\Sistema de Inventario - SC\Sistema de Inventario - SC\bin\Debug\MySql.Data.dll
+C:\Users\VictorManuel\Documents\sistemas comerciales\Sistema de Inventario - SC\Sistema de Inventario - SC\obj\x86\Debug\Sistema de Inventario - SC.exe
+C:\Users\VictorManuel\Documents\sistemas comerciales\Sistema de Inventario - SC\Sistema de Inventario - SC\obj\x86\Debug\Sistema de Inventario - SC.pdb
+C:\Users\VictorManuel\Documents\sistemas comerciales\Sistema de Inventario - SC\Sistema de Inventario - SC\bin\Debug\Sistema de Inventario - SC.exe
+C:\Users\VictorManuel\Documents\sistemas comerciales\Sistema de Inventario - SC\Sistema de Inventario - SC\bin\Debug\Sistema de Inventario - SC.pdb
+C:\Users\VictorManuel\Documents\sistemas comerciales\Sistema de Inventario - SC\Sistema de Inventario - SC\bin\Debug\MySql.Data.dll
+C:\Users\VictorManuel\Documents\sistemas comerciales\Sistema de Inventario - SC\Sistema de Inventario - SC\obj\x86\Debug\Sistema de Inventario - SC.csprojResolveAssemblyReference.cache
+C:\Users\VictorManuel\Documents\sistemas comerciales\Sistema de Inventario - SC\Sistema de Inventario - SC\obj\x86\Debug\Sistema_de_Inventario_SC.mainForm.resources
+C:\Users\VictorManuel\Documents\sistemas comerciales\Sistema de Inventario - SC\Sistema de Inventario - SC\obj\x86\Debug\Sistema de Inventario - SC.csproj.GenerateResource.Cache
+C:\Users\VictorManuel\Documents\Sistemas Comerciales\Sistema de Inventario - SC\Sistema de Inventario - SC\obj\x86\Debug\Sistema_de_Inventario_SC.Properties.Resources.resources
+C:\Users\VictorManuel\Documents\Sistemas Comerciales\Sistema de Inventario - SC\Sistema de Inventario - SC\obj\x86\Debug\Sistema_de_Inventario_SC.manualFrm.resources
+C:\Users\VictorManuel\Documents\sistemas comerciales\Sistema de Inventario - SC\Sistema de Inventario - SC\obj\x86\Debug\Sistema_de_Inventario_SC.NuevoProductoForm.resources
+C:\Users\VictorManuel\Documents\sistemas comerciales\Sistema de Inventario - SC\Sistema de Inventario - SC\obj\x86\Debug\Sistema_de_Inventario_SC.SugerirPrecios.resources
+C:\Users\wilmer baez\Google Drive\Sistemas Comerciales\Sistema de Inventario - SC\Sistema de Inventario - SC\obj\x86\Debug\Sistema de Inventario - SC.exe
+C:\Users\wilmer baez\Google Drive\Sistemas Comerciales\Sistema de Inventario - SC\Sistema de Inventario - SC\obj\x86\Debug\Sistema de Inventario - SC.pdb
+C:\Users\VictorManuel\Documents\Temp!\Sistema de Inventario - SC\Sistema de Inventario - SC\obj\x86\Debug\Sistema de Inventario - SC.exe
+C:\Users\VictorManuel\Documents\Temp!\Sistema de Inventario - SC\Sistema de Inventario - SC\obj\x86\Debug\Sistema de Inventario - SC.pdb
+C:\Users\MANUELANTONIO\Google Drive\Sistemas Comerciales\Sistema de Inventario - SC\Sistema de Inventario - SC\obj\x86\Debug\Sistema de Inventario - SC.exe
+C:\Users\MANUELANTONIO\Google Drive\Sistemas Comerciales\Sistema de Inventario - SC\Sistema de Inventario - SC\obj\x86\Debug\Sistema de Inventario - SC.pdb
+C:\Users\VictorManuel\Documents\Sistemas Comerciales\Sistema de Inventario - SC\Sistema de Inventario - SC\obj\x86\Debug\Sistema_de_Inventario_SC.ActualizarInventario.resources
+C:\Users\VictorManuel\Documents\Sistemas Comerciales\Sistema de Inventario - SC\Sistema de Inventario - SC\obj\x86\Debug\Sistema_de_Inventario_SC.BuscarProductos.resources
+C:\Users\MANUELANTONIO\Google Drive\Sistemas Comerciales\Sistema de Inventario - SC\Sistema de Inventario - SC\bin\Debug\Sistema de Inventario - SC.exe
+C:\Users\MANUELANTONIO\Google Drive\Sistemas Comerciales\Sistema de Inventario - SC\Sistema de Inventario - SC\bin\Debug\Sistema de Inventario - SC.pdb
+C:\Users\MANUELANTONIO\Google Drive\Sistemas Comerciales\Sistema de Inventario - SC\Sistema de Inventario - SC\obj\x86\Debug\Sistema de Inventario - SC.csprojResolveAssemblyReference.cache
+C:\Users\MANUELANTONIO\Google Drive\Sistemas Comerciales\Sistema de Inventario - SC\Sistema de Inventario - SC\obj\x86\Debug\Sistema_de_Inventario_SC.ActualizarInventario.resources
+C:\Users\MANUELANTONIO\Google Drive\Sistemas Comerciales\Sistema de Inventario - SC\Sistema de Inventario - SC\obj\x86\Debug\Sistema_de_Inventario_SC.BuscarProductos.resources
+C:\Users\MANUELANTONIO\Google Drive\Sistemas Comerciales\Sistema de Inventario - SC\Sistema de Inventario - SC\obj\x86\Debug\Sistema_de_Inventario_SC.mainForm.resources
+C:\Users\MANUELANTONIO\Google Drive\Sistemas Comerciales\Sistema de Inventario - SC\Sistema de Inventario - SC\obj\x86\Debug\Sistema_de_Inventario_SC.Properties.Resources.resources
+C:\Users\MANUELANTONIO\Google Drive\Sistemas Comerciales\Sistema de Inventario - SC\Sistema de Inventario - SC\obj\x86\Debug\Sistema_de_Inventario_SC.manualFrm.resources
+C:\Users\MANUELANTONIO\Google Drive\Sistemas Comerciales\Sistema de Inventario - SC\Sistema de Inventario - SC\obj\x86\Debug\Sistema_de_Inventario_SC.NuevoProductoForm.resources
+C:\Users\MANUELANTONIO\Google Drive\Sistemas Comerciales\Sistema de Inventario - SC\Sistema de Inventario - SC\obj\x86\Debug\Sistema_de_Inventario_SC.SugerirPrecios.resources
+C:\Users\MANUELANTONIO\Google Drive\Sistemas Comerciales\Sistema de Inventario - SC\Sistema de Inventario - SC\obj\x86\Debug\Sistema de Inventario - SC.csproj.GenerateResource.Cache
+C:\Users\VictorManuel\Documents\Sistemas Comerciales\Sistema de Inventario - SC\Sistema de Inventario - SC\obj\x86\Debug\Sistema_de_Inventario_SC.MessageForm.resources
+C:\Users\VictorManuel\SkyDrive\Develop\Sistema de Inventario - SC\Sistema de Inventario - SC\obj\x86\Debug\Sistema de Inventario - SC.exe
+C:\Users\VictorManuel\SkyDrive\Develop\Sistema de Inventario - SC\Sistema de Inventario - SC\obj\x86\Debug\Sistema de Inventario - SC.pdb
+C:\Users\VictorManuel\SkyDrive\Develop\Sistema de Inventario - SC\Sistema de Inventario - SC\bin\Debug\Sistema de Inventario - SC.exe
+C:\Users\VictorManuel\SkyDrive\Develop\Sistema de Inventario - SC\Sistema de Inventario - SC\bin\Debug\Sistema de Inventario - SC.pdb
+C:\Users\VictorManuel\SkyDrive\Develop\Sistema de Inventario - SC\Sistema de Inventario - SC\bin\Debug\MySql.Data.dll
+C:\Users\VictorManuel\SkyDrive\Develop\Sistema de Inventario - SC\Sistema de Inventario - SC\obj\x86\Debug\Sistema de Inventario - SC.csprojResolveAssemblyReference.cache
+C:\Users\VictorManuel\SkyDrive\Develop\Sistema de Inventario - SC\Sistema de Inventario - SC\obj\x86\Debug\Sistema_de_Inventario_SC.ActualizarInventario.resources
+C:\Users\VictorManuel\SkyDrive\Develop\Sistema de Inventario - SC\Sistema de Inventario - SC\obj\x86\Debug\Sistema_de_Inventario_SC.BuscarProductos.resources
+C:\Users\VictorManuel\SkyDrive\Develop\Sistema de Inventario - SC\Sistema de Inventario - SC\obj\x86\Debug\Sistema_de_Inventario_SC.mainForm.resources
+C:\Users\VictorManuel\SkyDrive\Develop\Sistema de Inventario - SC\Sistema de Inventario - SC\obj\x86\Debug\Sistema_de_Inventario_SC.MessageForm.resources
+C:\Users\VictorManuel\SkyDrive\Develop\Sistema de Inventario - SC\Sistema de Inventario - SC\obj\x86\Debug\Sistema_de_Inventario_SC.Properties.Resources.resources
+C:\Users\VictorManuel\SkyDrive\Develop\Sistema de Inventario - SC\Sistema de Inventario - SC\obj\x86\Debug\Sistema_de_Inventario_SC.manualFrm.resources
+C:\Users\VictorManuel\SkyDrive\Develop\Sistema de Inventario - SC\Sistema de Inventario - SC\obj\x86\Debug\Sistema_de_Inventario_SC.NuevoProductoForm.resources
+C:\Users\VictorManuel\SkyDrive\Develop\Sistema de Inventario - SC\Sistema de Inventario - SC\obj\x86\Debug\Sistema_de_Inventario_SC.SugerirPrecios.resources
+C:\Users\VictorManuel\SkyDrive\Develop\Sistema de Inventario - SC\Sistema de Inventario - SC\obj\x86\Debug\Sistema de Inventario - SC.csproj.GenerateResource.Cache
+C:\Users\MANUELANTONIO\Desktop\Sistema de Inventario - SC\Sistema de Inventario - SC\obj\x86\Debug\Sistema de Inventario - SC.exe
+C:\Users\MANUELANTONIO\Desktop\Sistema de Inventario - SC\Sistema de Inventario - SC\obj\x86\Debug\Sistema de Inventario - SC.pdb
+C:\Users\MANUELANTONIO\Desktop\Sistema de Inventario - SC\Sistema de Inventario - SC\bin\Debug\Sistema de Inventario - SC.exe
+C:\Users\MANUELANTONIO\Desktop\Sistema de Inventario - SC\Sistema de Inventario - SC\bin\Debug\Sistema de Inventario - SC.pdb
+C:\Users\MANUELANTONIO\Desktop\Sistema de Inventario - SC\Sistema de Inventario - SC\obj\x86\Debug\Sistema de Inventario - SC.csprojResolveAssemblyReference.cache
+C:\Users\MANUELANTONIO\Desktop\Sistema de Inventario - SC\Sistema de Inventario - SC\obj\x86\Debug\Sistema_de_Inventario_SC.ActualizarInventario.resources
+C:\Users\MANUELANTONIO\Desktop\Sistema de Inventario - SC\Sistema de Inventario - SC\obj\x86\Debug\Sistema_de_Inventario_SC.BuscarProductos.resources
+C:\Users\MANUELANTONIO\Desktop\Sistema de Inventario - SC\Sistema de Inventario - SC\obj\x86\Debug\Sistema_de_Inventario_SC.mainForm.resources
+C:\Users\MANUELANTONIO\Desktop\Sistema de Inventario - SC\Sistema de Inventario - SC\obj\x86\Debug\Sistema_de_Inventario_SC.MessageForm.resources
+C:\Users\MANUELANTONIO\Desktop\Sistema de Inventario - SC\Sistema de Inventario - SC\obj\x86\Debug\Sistema_de_Inventario_SC.Properties.Resources.resources
+C:\Users\MANUELANTONIO\Desktop\Sistema de Inventario - SC\Sistema de Inventario - SC\obj\x86\Debug\Sistema_de_Inventario_SC.manualFrm.resources
+C:\Users\MANUELANTONIO\Desktop\Sistema de Inventario - SC\Sistema de Inventario - SC\obj\x86\Debug\Sistema_de_Inventario_SC.NuevoProductoForm.resources
+C:\Users\MANUELANTONIO\Desktop\Sistema de Inventario - SC\Sistema de Inventario - SC\obj\x86\Debug\Sistema_de_Inventario_SC.SugerirPrecios.resources
+C:\Users\MANUELANTONIO\Desktop\Sistema de Inventario - SC\Sistema de Inventario - SC\obj\x86\Debug\Sistema de Inventario - SC.csproj.GenerateResource.Cache
+C:\Users\MANUELANTONIO\Desktop\Sistema de Inventario - SC\Sistema de Inventario - SC\obj\x86\Debug\Sistema_de_Inventario_SC.ConsutarInventario.resources
+C:\Users\MANUELANTONIO\Desktop\Sistema de Inventario - SC\Sistema de Inventario - SC\obj\x86\Debug\Sistema_de_Inventario_SC.frmVistaImprimir.resources
+C:\Users\VictorManuel\SkyDrive\Develop\Sistema de Inventario - SC\Sistema de Inventario - SC\obj\x86\Debug\Sistema_de_Inventario_SC.ConsutarInventario.resources
+C:\Users\VictorManuel\SkyDrive\Develop\Sistema de Inventario - SC\Sistema de Inventario - SC\obj\x86\Debug\Sistema_de_Inventario_SC.frmVistaImprimir.resources
+C:\Users\VictorManuel\SkyDrive\Develop\Sistema de Inventario - SC\Sistema de Inventario - SC\obj\x86\Debug\RdlCompile.cache
+C:\Users\VictorManuel\SkyDrive\Develop\Sistema de Inventario - SC\Sistema de Inventario - SC\obj\x86\Debug\RdlCompile.compiled
+C:\Users\VictorManuel\Documents\Sistemas Comerciales\Sistema de Inventario - SC\Sistema de Inventario - SC\obj\x86\Debug\Sistema_de_Inventario_SC.ConsutarInventario.resources
+C:\Users\VictorManuel\Documents\Sistemas Comerciales\Sistema de Inventario - SC\Sistema de Inventario - SC\obj\x86\Debug\Sistema_de_Inventario_SC.frmVistaImprimir.resources
+C:\Users\VictorManuel\Documents\Sistemas Comerciales\Sistema de Inventario - SC\Sistema de Inventario - SC\obj\x86\Debug\Sistema_de_Inventario_SC.frmNuevoElemento.resources
+C:\Users\MANUELANTONIO\Desktop\Sistema de Inventario - SC\Sistema de Inventario - SC\obj\x86\Debug\Sistema_de_Inventario_SC.frmNuevoElemento.resources
+C:\Users\VictorManuel\Documents\Sistemas Comerciales\Sistema de Inventario - SC\Sistema de Inventario - SC\obj\x86\Debug\Sistema_de_Inventario_SC.frmAutenticate.resources
+C:\Users\VictorManuel\Documents\Sistemas Comerciales\Sistema de Inventario - SC\Sistema de Inventario - SC\obj\x86\Debug\Sistema_de_Inventario_SC.frmAdministrar.resources
+C:\Users\MANUELANTONIO\Desktop\Sistema de Inventario - SC\Sistema de Inventario - SC\obj\x86\Debug\Sistema_de_Inventario_SC.frmAutenticate.resources
+C:\Users\MANUELANTONIO\Desktop\Sistema de Inventario - SC\Sistema de Inventario - SC\obj\x86\Debug\Sistema_de_Inventario_SC.frmAdministrar.resources
+C:\Users\VictorManuel\Documents\Sistemas Comerciales\Sistema de Inventario - SC\Sistema de Inventario - SC\obj\x86\Debug\RdlCompile.cache
+C:\Users\VictorManuel\Documents\Sistemas Comerciales\Sistema de Inventario - SC\Sistema de Inventario - SC\obj\x86\Debug\RdlCompile.compiled
+C:\Users\VictorManuel\Documents\Sistemas Comerciales\Sistema de Inventario - SC\Sistema de Inventario - SC\obj\x86\Debug\Sistema_de_Inventario_SC.frmBackup.resources
+C:\Users\VictorManuel\Documents\Sistemas Comerciales\Sistema de Inventario - SC\Sistema de Inventario - SC\bin\Debug\MySqlBackup.dll
+C:\Users\VictorManuel\Documents\Sistemas Comerciales\Sistema de Inventario - SC\Sistema de Inventario - SC\bin\Debug\Ionic.Zip.dll
+C:\Users\VictorManuel\Documents\Sistemas Comerciales\Sistema de Inventario - SC\Sistema de Inventario - SC\obj\x86\Debug\Sistema_de_Inventario_SC.frmRestore.resources
+C:\Users\VictorManuel\Documents\Sistemas Comerciales\Sistema de Inventario - SC\Sistema de Inventario - SC\obj\x86\Debug\Sistema_de_Inventario_SC.frmCreditos.resources
+C:\Users\VictorManuel\SkyDrive\Develop\Sistema de Inventario - SC\Sistema de Inventario - SC\bin\Debug\Ionic.Zip.dll
+C:\Users\VictorManuel\SkyDrive\Develop\Sistema de Inventario - SC\Sistema de Inventario - SC\obj\x86\Debug\Sistema_de_Inventario_SC.frmAutenticate.resources
+C:\Users\VictorManuel\SkyDrive\Develop\Sistema de Inventario - SC\Sistema de Inventario - SC\obj\x86\Debug\Sistema_de_Inventario_SC.frmBackup.resources
+C:\Users\VictorManuel\SkyDrive\Develop\Sistema de Inventario - SC\Sistema de Inventario - SC\obj\x86\Debug\Sistema_de_Inventario_SC.frmCreditos.resources
+C:\Users\VictorManuel\SkyDrive\Develop\Sistema de Inventario - SC\Sistema de Inventario - SC\obj\x86\Debug\Sistema_de_Inventario_SC.frmNuevoElemento.resources
+C:\Users\VictorManuel\SkyDrive\Develop\Sistema de Inventario - SC\Sistema de Inventario - SC\obj\x86\Debug\Sistema_de_Inventario_SC.frmAdministrar.resources
+C:\Users\VictorManuel\SkyDrive\Develop\Sistema de Inventario - SC\Sistema de Inventario - SC\obj\x86\Debug\Sistema_de_Inventario_SC.frmRestore.resources
+C:\Users\hdbow\OneDrive\Develop\Sistema de Inventario - SC\Sistema de Inventario - SC\obj\x86\Debug\Sistema de Inventario - SC.exe
+C:\Users\hdbow\OneDrive\Develop\Sistema de Inventario - SC\Sistema de Inventario - SC\obj\x86\Debug\Sistema de Inventario - SC.pdb

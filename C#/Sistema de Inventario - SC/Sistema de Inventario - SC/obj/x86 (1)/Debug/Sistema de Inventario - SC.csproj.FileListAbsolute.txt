@@ -1,0 +1,8 @@
+C:\Users\MANUELANTONIO\Google Drive\Sistemas Comerciales\Sistema de Inventario - SC\Sistema de Inventario - SC\obj\x86\Debug\Sistema_de_Inventario_SC.mainForm.resources
+C:\Users\MANUELANTONIO\Google Drive\Sistemas Comerciales\Sistema de Inventario - SC\Sistema de Inventario - SC\obj\x86\Debug\Sistema de Inventario - SC.csproj.GenerateResource.Cache
+C:\Users\MANUELANTONIO\Google Drive\Sistemas Comerciales\Sistema de Inventario - SC\Sistema de Inventario - SC\bin\Debug\Sistema de Inventario - SC.exe
+C:\Users\MANUELANTONIO\Google Drive\Sistemas Comerciales\Sistema de Inventario - SC\Sistema de Inventario - SC\bin\Debug\Sistema de Inventario - SC.pdb
+C:\Users\MANUELANTONIO\Google Drive\Sistemas Comerciales\Sistema de Inventario - SC\Sistema de Inventario - SC\obj\x86\Debug\Sistema de Inventario - SC.exe
+C:\Users\MANUELANTONIO\Google Drive\Sistemas Comerciales\Sistema de Inventario - SC\Sistema de Inventario - SC\obj\x86\Debug\Sistema de Inventario - SC.pdb
+C:\Users\MANUELANTONIO\Google Drive\Sistemas Comerciales\Sistema de Inventario - SC\Sistema de Inventario - SC\obj\x86\Debug\Sistema de Inventario - SC.csprojResolveAssemblyReference.cache
+C:\Users\MANUELANTONIO\Google Drive\Sistemas Comerciales\Sistema de Inventario - SC\Sistema de Inventario - SC\obj\x86\Debug\Sistema_de_Inventario_SC.Properties.Resources.resources

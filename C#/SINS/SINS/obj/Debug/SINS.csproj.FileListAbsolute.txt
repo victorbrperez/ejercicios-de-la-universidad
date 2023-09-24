@@ -1,0 +1,198 @@
+C:\Users\Victor Manuel\Documents\Visual Studio 2015\Projects\SINS\SINS\bin\Debug\SINS.exe.config
+C:\Users\Victor Manuel\Documents\Visual Studio 2015\Projects\SINS\SINS\bin\Debug\SINS.exe
+C:\Users\Victor Manuel\Documents\Visual Studio 2015\Projects\SINS\SINS\bin\Debug\SINS.pdb
+C:\Users\Victor Manuel\Documents\Visual Studio 2015\Projects\SINS\SINS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Victor Manuel\Documents\Visual Studio 2015\Projects\SINS\SINS\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Victor Manuel\Documents\Visual Studio 2015\Projects\SINS\SINS\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Victor Manuel\Documents\Visual Studio 2015\Projects\SINS\SINS\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Victor Manuel\Documents\Visual Studio 2015\Projects\SINS\SINS\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Victor Manuel\Documents\Visual Studio 2015\Projects\SINS\SINS\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Victor Manuel\Documents\Visual Studio 2015\Projects\SINS\SINS\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Victor Manuel\Documents\Visual Studio 2015\Projects\SINS\SINS\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Victor Manuel\Documents\Visual Studio 2015\Projects\SINS\SINS\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Victor Manuel\Documents\Visual Studio 2015\Projects\SINS\SINS\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Victor Manuel\Documents\Visual Studio 2015\Projects\SINS\SINS\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Victor Manuel\Documents\Visual Studio 2015\Projects\SINS\SINS\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Victor Manuel\Documents\Visual Studio 2015\Projects\SINS\SINS\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Victor Manuel\Documents\Visual Studio 2015\Projects\SINS\SINS\obj\Debug\SINS.csprojResolveAssemblyReference.cache
+C:\Users\Victor Manuel\Documents\Visual Studio 2015\Projects\SINS\SINS\obj\Debug\SINS.frmBuscarAsignatura.resources
+C:\Users\Victor Manuel\Documents\Visual Studio 2015\Projects\SINS\SINS\obj\Debug\SINS.frmBuscarTipoEstudiante.resources
+C:\Users\Victor Manuel\Documents\Visual Studio 2015\Projects\SINS\SINS\obj\Debug\SINS.frmDatosAsignatura.resources
+C:\Users\Victor Manuel\Documents\Visual Studio 2015\Projects\SINS\SINS\obj\Debug\SINS.frmDatosAula.resources
+C:\Users\Victor Manuel\Documents\Visual Studio 2015\Projects\SINS\SINS\obj\Debug\SINS.frmDatosCarrera.resources
+C:\Users\Victor Manuel\Documents\Visual Studio 2015\Projects\SINS\SINS\obj\Debug\SINS.frmDatosCentro.resources
+C:\Users\Victor Manuel\Documents\Visual Studio 2015\Projects\SINS\SINS\obj\Debug\SINS.frmDatosHorario.resources
+C:\Users\Victor Manuel\Documents\Visual Studio 2015\Projects\SINS\SINS\obj\Debug\SINS.frmDatosSeccion.resources
+C:\Users\Victor Manuel\Documents\Visual Studio 2015\Projects\SINS\SINS\obj\Debug\SINS.frmDatosTipoEstudiante.resources
+C:\Users\Victor Manuel\Documents\Visual Studio 2015\Projects\SINS\SINS\obj\Debug\SINS.MainForm.resources
+C:\Users\Victor Manuel\Documents\Visual Studio 2015\Projects\SINS\SINS\obj\Debug\SINS.frmAdmusuarios.resources
+C:\Users\Victor Manuel\Documents\Visual Studio 2015\Projects\SINS\SINS\obj\Debug\SINS.frmBuscarAulas.resources
+C:\Users\Victor Manuel\Documents\Visual Studio 2015\Projects\SINS\SINS\obj\Debug\SINS.frmBuscarCarrera.resources
+C:\Users\Victor Manuel\Documents\Visual Studio 2015\Projects\SINS\SINS\obj\Debug\SINS.frmBuscarCentro.resources
+C:\Users\Victor Manuel\Documents\Visual Studio 2015\Projects\SINS\SINS\obj\Debug\SINS.frmBuscarEstudiante.resources
+C:\Users\Victor Manuel\Documents\Visual Studio 2015\Projects\SINS\SINS\obj\Debug\SINS.frmBuscarProfesor.resources
+C:\Users\Victor Manuel\Documents\Visual Studio 2015\Projects\SINS\SINS\obj\Debug\SINS.frmDatosEstudiante.resources
+C:\Users\Victor Manuel\Documents\Visual Studio 2015\Projects\SINS\SINS\obj\Debug\SINS.frmLogin.resources
+C:\Users\Victor Manuel\Documents\Visual Studio 2015\Projects\SINS\SINS\obj\Debug\SINS.frmDatosProfesor.resources
+C:\Users\Victor Manuel\Documents\Visual Studio 2015\Projects\SINS\SINS\obj\Debug\SINS.frmReport.resources
+C:\Users\Victor Manuel\Documents\Visual Studio 2015\Projects\SINS\SINS\obj\Debug\SINS.frmVerUsuarios.resources
+C:\Users\Victor Manuel\Documents\Visual Studio 2015\Projects\SINS\SINS\obj\Debug\SINS.Properties.Resources.resources
+C:\Users\Victor Manuel\Documents\Visual Studio 2015\Projects\SINS\SINS\obj\Debug\SINS.csproj.GenerateResource.Cache
+C:\Users\Victor Manuel\Documents\Visual Studio 2015\Projects\SINS\SINS\obj\Debug\RdlCompile.cache
+C:\Users\Victor Manuel\Documents\Visual Studio 2015\Projects\SINS\SINS\obj\Debug\RdlCompile.compiled
+C:\Users\Victor Manuel\Documents\Visual Studio 2015\Projects\SINS\SINS\obj\Debug\SINS.exe
+C:\Users\Victor Manuel\Documents\Visual Studio 2015\Projects\SINS\SINS\obj\Debug\SINS.pdb
+C:\Users\Victor Manuel\Documents\Visual Studio 2015\Projects\SINS\SINS\obj\Debug\SINS.frmVerSeccionesEnConflicto.resources
+C:\Users\Victor Manuel\Documents\Visual Studio 2015\Projects\SINS\SINS\obj\Debug\SINS.frmBuscarSecciones.resources
+C:\Users\Victor Manuel\Documents\Visual Studio 2015\Projects\SINS\SINS\obj\Debug\SINS.frmInscripcion.resources
+C:\Users\Victor Manuel\Documents\Visual Studio 2015\Backup Files\SINS\SINS\bin\Debug\SINS.exe.config
+C:\Users\Victor Manuel\Documents\Visual Studio 2015\Backup Files\SINS\SINS\obj\Debug\SINS.exe
+C:\Users\Victor Manuel\Documents\Visual Studio 2015\Backup Files\SINS\SINS\obj\Debug\SINS.pdb
+C:\Users\Victor Manuel\Documents\Visual Studio 2015\Backup Files\SINS\SINS\bin\Debug\SINS.exe
+C:\Users\Victor Manuel\Documents\Visual Studio 2015\Backup Files\SINS\SINS\bin\Debug\SINS.pdb
+C:\Users\Victor Manuel\Documents\Visual Studio 2015\Backup Files\SINS\SINS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Victor Manuel\Documents\Visual Studio 2015\Backup Files\SINS\SINS\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Victor Manuel\Documents\Visual Studio 2015\Backup Files\SINS\SINS\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Victor Manuel\Documents\Visual Studio 2015\Backup Files\SINS\SINS\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Victor Manuel\Documents\Visual Studio 2015\Backup Files\SINS\SINS\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Victor Manuel\Documents\Visual Studio 2015\Backup Files\SINS\SINS\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Victor Manuel\Documents\Visual Studio 2015\Backup Files\SINS\SINS\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Victor Manuel\Documents\Visual Studio 2015\Backup Files\SINS\SINS\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Victor Manuel\Documents\Visual Studio 2015\Backup Files\SINS\SINS\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Victor Manuel\Documents\Visual Studio 2015\Backup Files\SINS\SINS\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Victor Manuel\Documents\Visual Studio 2015\Backup Files\SINS\SINS\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Victor Manuel\Documents\Visual Studio 2015\Backup Files\SINS\SINS\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Victor Manuel\Documents\Visual Studio 2015\Backup Files\SINS\SINS\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Victor Manuel\Documents\Visual Studio 2015\Backup Files\SINS\SINS\obj\Debug\SINS.csprojResolveAssemblyReference.cache
+C:\Users\Victor Manuel\Documents\Visual Studio 2015\Backup Files\SINS\SINS\obj\Debug\SINS.frmBuscarAsignatura.resources
+C:\Users\Victor Manuel\Documents\Visual Studio 2015\Backup Files\SINS\SINS\obj\Debug\SINS.frmBuscarSecciones.resources
+C:\Users\Victor Manuel\Documents\Visual Studio 2015\Backup Files\SINS\SINS\obj\Debug\SINS.frmBuscarTipoEstudiante.resources
+C:\Users\Victor Manuel\Documents\Visual Studio 2015\Backup Files\SINS\SINS\obj\Debug\SINS.frmDatosAsignatura.resources
+C:\Users\Victor Manuel\Documents\Visual Studio 2015\Backup Files\SINS\SINS\obj\Debug\SINS.frmDatosAula.resources
+C:\Users\Victor Manuel\Documents\Visual Studio 2015\Backup Files\SINS\SINS\obj\Debug\SINS.frmDatosCarrera.resources
+C:\Users\Victor Manuel\Documents\Visual Studio 2015\Backup Files\SINS\SINS\obj\Debug\SINS.frmDatosCentro.resources
+C:\Users\Victor Manuel\Documents\Visual Studio 2015\Backup Files\SINS\SINS\obj\Debug\SINS.frmDatosHorario.resources
+C:\Users\Victor Manuel\Documents\Visual Studio 2015\Backup Files\SINS\SINS\obj\Debug\SINS.frmDatosSeccion.resources
+C:\Users\Victor Manuel\Documents\Visual Studio 2015\Backup Files\SINS\SINS\obj\Debug\SINS.frmDatosTipoEstudiante.resources
+C:\Users\Victor Manuel\Documents\Visual Studio 2015\Backup Files\SINS\SINS\obj\Debug\SINS.frmInscripcion.resources
+C:\Users\Victor Manuel\Documents\Visual Studio 2015\Backup Files\SINS\SINS\obj\Debug\SINS.frmVerSeccionesEnConflicto.resources
+C:\Users\Victor Manuel\Documents\Visual Studio 2015\Backup Files\SINS\SINS\obj\Debug\SINS.MainForm.resources
+C:\Users\Victor Manuel\Documents\Visual Studio 2015\Backup Files\SINS\SINS\obj\Debug\SINS.frmAdmusuarios.resources
+C:\Users\Victor Manuel\Documents\Visual Studio 2015\Backup Files\SINS\SINS\obj\Debug\SINS.frmBuscarAulas.resources
+C:\Users\Victor Manuel\Documents\Visual Studio 2015\Backup Files\SINS\SINS\obj\Debug\SINS.frmBuscarCarrera.resources
+C:\Users\Victor Manuel\Documents\Visual Studio 2015\Backup Files\SINS\SINS\obj\Debug\SINS.frmBuscarCentro.resources
+C:\Users\Victor Manuel\Documents\Visual Studio 2015\Backup Files\SINS\SINS\obj\Debug\SINS.frmBuscarEstudiante.resources
+C:\Users\Victor Manuel\Documents\Visual Studio 2015\Backup Files\SINS\SINS\obj\Debug\SINS.frmBuscarProfesor.resources
+C:\Users\Victor Manuel\Documents\Visual Studio 2015\Backup Files\SINS\SINS\obj\Debug\SINS.frmDatosEstudiante.resources
+C:\Users\Victor Manuel\Documents\Visual Studio 2015\Backup Files\SINS\SINS\obj\Debug\SINS.frmLogin.resources
+C:\Users\Victor Manuel\Documents\Visual Studio 2015\Backup Files\SINS\SINS\obj\Debug\SINS.frmDatosProfesor.resources
+C:\Users\Victor Manuel\Documents\Visual Studio 2015\Backup Files\SINS\SINS\obj\Debug\SINS.frmReport.resources
+C:\Users\Victor Manuel\Documents\Visual Studio 2015\Backup Files\SINS\SINS\obj\Debug\SINS.frmVerUsuarios.resources
+C:\Users\Victor Manuel\Documents\Visual Studio 2015\Backup Files\SINS\SINS\obj\Debug\SINS.Properties.Resources.resources
+C:\Users\Victor Manuel\Documents\Visual Studio 2015\Backup Files\SINS\SINS\obj\Debug\SINS.csproj.GenerateResource.Cache
+C:\Users\Victor Manuel\Documents\Visual Studio 2015\Backup Files\SINS\SINS\obj\Debug\RdlCompile.cache
+C:\Users\Victor Manuel\Documents\Visual Studio 2015\Backup Files\SINS\SINS\obj\Debug\RdlCompile.compiled
+C:\Users\Victor Manuel\Documents\Visual Studio 2015\Projects\SINS\SINS\obj\Debug\SINS.Secciones.frmSeccionesLlenas.resources
+C:\Users\Victor Manuel\Documents\Visual Studio 2015\Projects\SINS\SINS\obj\Debug\SINS.frmCaja.resources
+C:\Users\Victor Manuel\Documents\Visual Studio 2015\Projects\SINS\SINS\obj\Debug\SINS.Otros.frmAvanzadoItem.resources
+C:\Users\Victor Manuel\Documents\Visual Studio 2015\Projects\SINS\SINS\obj\Debug\SINS.Otros.frmAcercaDe.resources
+C:\Users\Victor Manuel\Documents\Visual Studio 2015\Projects\SINS\SINS\obj\Debug\SINS.Usuarios.frmPermisos.resources
+C:\Users\Victor Manuel\Documents\Visual Studio 2015\Projects\SINS\SINS\obj\Debug\SINS.Otros.frmSeleccionarTipoUsuario.resources
+C:\Users\Victor Manuel\Documents\Visual Studio 2015\Projects\SINS\SINS\obj\Debug\SINS.Inscripciones.frmBuscarInscirpcionesPorFecha.resources
+C:\Users\hdbow\OneDrive\Documentos\Visual Studio 2015\Projects\SINS\SINS\bin\Debug\SINS.exe.config
+C:\Users\hdbow\OneDrive\Documentos\Visual Studio 2015\Projects\SINS\SINS\obj\Debug\SINS.exe
+C:\Users\hdbow\OneDrive\Documentos\Visual Studio 2015\Projects\SINS\SINS\obj\Debug\SINS.pdb
+C:\Users\hdbow\OneDrive\Documentos\Visual Studio 2015\Projects\SINS\SINS\bin\Debug\SINS.exe
+C:\Users\hdbow\OneDrive\Documentos\Visual Studio 2015\Projects\SINS\SINS\bin\Debug\SINS.pdb
+C:\Users\hdbow\OneDrive\Documentos\Visual Studio 2015\Projects\SINS\SINS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\hdbow\OneDrive\Documentos\Visual Studio 2015\Projects\SINS\SINS\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\hdbow\OneDrive\Documentos\Visual Studio 2015\Projects\SINS\SINS\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hdbow\OneDrive\Documentos\Visual Studio 2015\Projects\SINS\SINS\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\hdbow\OneDrive\Documentos\Visual Studio 2015\Projects\SINS\SINS\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\hdbow\OneDrive\Documentos\Visual Studio 2015\Projects\SINS\SINS\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\hdbow\OneDrive\Documentos\Visual Studio 2015\Projects\SINS\SINS\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\hdbow\OneDrive\Documentos\Visual Studio 2015\Projects\SINS\SINS\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\hdbow\OneDrive\Documentos\Visual Studio 2015\Projects\SINS\SINS\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\hdbow\OneDrive\Documentos\Visual Studio 2015\Projects\SINS\SINS\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\hdbow\OneDrive\Documentos\Visual Studio 2015\Projects\SINS\SINS\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\hdbow\OneDrive\Documentos\Visual Studio 2015\Projects\SINS\SINS\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\hdbow\OneDrive\Documentos\Visual Studio 2015\Projects\SINS\SINS\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\hdbow\OneDrive\Documentos\Visual Studio 2015\Projects\SINS\SINS\obj\Debug\SINS.csprojResolveAssemblyReference.cache
+C:\Users\hdbow\OneDrive\Documentos\Visual Studio 2015\Projects\SINS\SINS\obj\Debug\SINS.frmBuscarAsignatura.resources
+C:\Users\hdbow\OneDrive\Documentos\Visual Studio 2015\Projects\SINS\SINS\obj\Debug\SINS.frmCaja.resources
+C:\Users\hdbow\OneDrive\Documentos\Visual Studio 2015\Projects\SINS\SINS\obj\Debug\SINS.Inscripciones.frmBuscarInscirpcionesPorFecha.resources
+C:\Users\hdbow\OneDrive\Documentos\Visual Studio 2015\Projects\SINS\SINS\obj\Debug\SINS.Otros.frmAcercaDe.resources
+C:\Users\hdbow\OneDrive\Documentos\Visual Studio 2015\Projects\SINS\SINS\obj\Debug\SINS.Otros.frmAvanzadoItem.resources
+C:\Users\hdbow\OneDrive\Documentos\Visual Studio 2015\Projects\SINS\SINS\obj\Debug\SINS.Otros.frmSeleccionarTipoUsuario.resources
+C:\Users\hdbow\OneDrive\Documentos\Visual Studio 2015\Projects\SINS\SINS\obj\Debug\SINS.Secciones.frmSeccionesLlenas.resources
+C:\Users\hdbow\OneDrive\Documentos\Visual Studio 2015\Projects\SINS\SINS\obj\Debug\SINS.frmBuscarSecciones.resources
+C:\Users\hdbow\OneDrive\Documentos\Visual Studio 2015\Projects\SINS\SINS\obj\Debug\SINS.frmBuscarTipoEstudiante.resources
+C:\Users\hdbow\OneDrive\Documentos\Visual Studio 2015\Projects\SINS\SINS\obj\Debug\SINS.frmDatosAsignatura.resources
+C:\Users\hdbow\OneDrive\Documentos\Visual Studio 2015\Projects\SINS\SINS\obj\Debug\SINS.frmDatosAula.resources
+C:\Users\hdbow\OneDrive\Documentos\Visual Studio 2015\Projects\SINS\SINS\obj\Debug\SINS.frmDatosCarrera.resources
+C:\Users\hdbow\OneDrive\Documentos\Visual Studio 2015\Projects\SINS\SINS\obj\Debug\SINS.frmDatosCentro.resources
+C:\Users\hdbow\OneDrive\Documentos\Visual Studio 2015\Projects\SINS\SINS\obj\Debug\SINS.frmDatosHorario.resources
+C:\Users\hdbow\OneDrive\Documentos\Visual Studio 2015\Projects\SINS\SINS\obj\Debug\SINS.frmDatosSeccion.resources
+C:\Users\hdbow\OneDrive\Documentos\Visual Studio 2015\Projects\SINS\SINS\obj\Debug\SINS.frmDatosTipoEstudiante.resources
+C:\Users\hdbow\OneDrive\Documentos\Visual Studio 2015\Projects\SINS\SINS\obj\Debug\SINS.frmInscripcion.resources
+C:\Users\hdbow\OneDrive\Documentos\Visual Studio 2015\Projects\SINS\SINS\obj\Debug\SINS.frmVerSeccionesEnConflicto.resources
+C:\Users\hdbow\OneDrive\Documentos\Visual Studio 2015\Projects\SINS\SINS\obj\Debug\SINS.MainForm.resources
+C:\Users\hdbow\OneDrive\Documentos\Visual Studio 2015\Projects\SINS\SINS\obj\Debug\SINS.frmAdmusuarios.resources
+C:\Users\hdbow\OneDrive\Documentos\Visual Studio 2015\Projects\SINS\SINS\obj\Debug\SINS.frmBuscarAulas.resources
+C:\Users\hdbow\OneDrive\Documentos\Visual Studio 2015\Projects\SINS\SINS\obj\Debug\SINS.frmBuscarCarrera.resources
+C:\Users\hdbow\OneDrive\Documentos\Visual Studio 2015\Projects\SINS\SINS\obj\Debug\SINS.frmBuscarCentro.resources
+C:\Users\hdbow\OneDrive\Documentos\Visual Studio 2015\Projects\SINS\SINS\obj\Debug\SINS.frmBuscarEstudiante.resources
+C:\Users\hdbow\OneDrive\Documentos\Visual Studio 2015\Projects\SINS\SINS\obj\Debug\SINS.frmBuscarProfesor.resources
+C:\Users\hdbow\OneDrive\Documentos\Visual Studio 2015\Projects\SINS\SINS\obj\Debug\SINS.frmDatosEstudiante.resources
+C:\Users\hdbow\OneDrive\Documentos\Visual Studio 2015\Projects\SINS\SINS\obj\Debug\SINS.frmLogin.resources
+C:\Users\hdbow\OneDrive\Documentos\Visual Studio 2015\Projects\SINS\SINS\obj\Debug\SINS.frmDatosProfesor.resources
+C:\Users\hdbow\OneDrive\Documentos\Visual Studio 2015\Projects\SINS\SINS\obj\Debug\SINS.frmReport.resources
+C:\Users\hdbow\OneDrive\Documentos\Visual Studio 2015\Projects\SINS\SINS\obj\Debug\SINS.Usuarios.frmPermisos.resources
+C:\Users\hdbow\OneDrive\Documentos\Visual Studio 2015\Projects\SINS\SINS\obj\Debug\SINS.frmVerUsuarios.resources
+C:\Users\hdbow\OneDrive\Documentos\Visual Studio 2015\Projects\SINS\SINS\obj\Debug\SINS.Properties.Resources.resources
+C:\Users\hdbow\OneDrive\Documentos\Visual Studio 2015\Projects\SINS\SINS\obj\Debug\SINS.csproj.GenerateResource.Cache
+C:\Users\hdbow\OneDrive\Documentos\Visual Studio 2015\Projects\SINS\SINS\obj\Debug\RdlCompile.cache
+C:\Users\hdbow\OneDrive\Documentos\Visual Studio 2015\Projects\SINS\SINS\obj\Debug\RdlCompile.compiled
+C:\Users\hdbow\OneDrive\UASD\2017-01\Programacion IV\Asignaciones\SINS\SINS\bin\Debug\SINS.exe.config
+C:\Users\hdbow\OneDrive\UASD\2017-01\Programacion IV\Asignaciones\SINS\SINS\obj\Debug\SINS.exe
+C:\Users\hdbow\OneDrive\UASD\2017-01\Programacion IV\Asignaciones\SINS\SINS\obj\Debug\SINS.pdb
+C:\Users\hdbow\OneDrive\UASD\2017-01\Programacion IV\Asignaciones\SINS\SINS\bin\Debug\SINS.exe
+C:\Users\hdbow\OneDrive\UASD\2017-01\Programacion IV\Asignaciones\SINS\SINS\bin\Debug\SINS.pdb
+C:\Users\hdbow\OneDrive\UASD\2017-01\Programacion IV\Asignaciones\SINS\SINS\obj\Debug\SINS.frmBuscarAsignatura.resources
+C:\Users\hdbow\OneDrive\UASD\2017-01\Programacion IV\Asignaciones\SINS\SINS\obj\Debug\SINS.frmCaja.resources
+C:\Users\hdbow\OneDrive\UASD\2017-01\Programacion IV\Asignaciones\SINS\SINS\obj\Debug\SINS.Inscripciones.frmBuscarInscirpcionesPorFecha.resources
+C:\Users\hdbow\OneDrive\UASD\2017-01\Programacion IV\Asignaciones\SINS\SINS\obj\Debug\SINS.Otros.frmAcercaDe.resources
+C:\Users\hdbow\OneDrive\UASD\2017-01\Programacion IV\Asignaciones\SINS\SINS\obj\Debug\SINS.Otros.frmAvanzadoItem.resources
+C:\Users\hdbow\OneDrive\UASD\2017-01\Programacion IV\Asignaciones\SINS\SINS\obj\Debug\SINS.Otros.frmSeleccionarTipoUsuario.resources
+C:\Users\hdbow\OneDrive\UASD\2017-01\Programacion IV\Asignaciones\SINS\SINS\obj\Debug\SINS.Secciones.frmSeccionesLlenas.resources
+C:\Users\hdbow\OneDrive\UASD\2017-01\Programacion IV\Asignaciones\SINS\SINS\obj\Debug\SINS.frmBuscarSecciones.resources
+C:\Users\hdbow\OneDrive\UASD\2017-01\Programacion IV\Asignaciones\SINS\SINS\obj\Debug\SINS.frmBuscarTipoEstudiante.resources
+C:\Users\hdbow\OneDrive\UASD\2017-01\Programacion IV\Asignaciones\SINS\SINS\obj\Debug\SINS.frmDatosAsignatura.resources
+C:\Users\hdbow\OneDrive\UASD\2017-01\Programacion IV\Asignaciones\SINS\SINS\obj\Debug\SINS.frmDatosAula.resources
+C:\Users\hdbow\OneDrive\UASD\2017-01\Programacion IV\Asignaciones\SINS\SINS\obj\Debug\SINS.frmDatosCarrera.resources
+C:\Users\hdbow\OneDrive\UASD\2017-01\Programacion IV\Asignaciones\SINS\SINS\obj\Debug\SINS.frmDatosCentro.resources
+C:\Users\hdbow\OneDrive\UASD\2017-01\Programacion IV\Asignaciones\SINS\SINS\obj\Debug\SINS.frmDatosHorario.resources
+C:\Users\hdbow\OneDrive\UASD\2017-01\Programacion IV\Asignaciones\SINS\SINS\obj\Debug\SINS.frmDatosSeccion.resources
+C:\Users\hdbow\OneDrive\UASD\2017-01\Programacion IV\Asignaciones\SINS\SINS\obj\Debug\SINS.frmDatosTipoEstudiante.resources
+C:\Users\hdbow\OneDrive\UASD\2017-01\Programacion IV\Asignaciones\SINS\SINS\obj\Debug\SINS.frmInscripcion.resources
+C:\Users\hdbow\OneDrive\UASD\2017-01\Programacion IV\Asignaciones\SINS\SINS\obj\Debug\SINS.frmVerSeccionesEnConflicto.resources
+C:\Users\hdbow\OneDrive\UASD\2017-01\Programacion IV\Asignaciones\SINS\SINS\obj\Debug\SINS.MainForm.resources
+C:\Users\hdbow\OneDrive\UASD\2017-01\Programacion IV\Asignaciones\SINS\SINS\obj\Debug\SINS.frmAdmusuarios.resources
+C:\Users\hdbow\OneDrive\UASD\2017-01\Programacion IV\Asignaciones\SINS\SINS\obj\Debug\SINS.frmBuscarAulas.resources
+C:\Users\hdbow\OneDrive\UASD\2017-01\Programacion IV\Asignaciones\SINS\SINS\obj\Debug\SINS.frmBuscarCarrera.resources
+C:\Users\hdbow\OneDrive\UASD\2017-01\Programacion IV\Asignaciones\SINS\SINS\obj\Debug\SINS.frmBuscarCentro.resources
+C:\Users\hdbow\OneDrive\UASD\2017-01\Programacion IV\Asignaciones\SINS\SINS\obj\Debug\SINS.frmBuscarEstudiante.resources
+C:\Users\hdbow\OneDrive\UASD\2017-01\Programacion IV\Asignaciones\SINS\SINS\obj\Debug\SINS.frmBuscarProfesor.resources
+C:\Users\hdbow\OneDrive\UASD\2017-01\Programacion IV\Asignaciones\SINS\SINS\obj\Debug\SINS.frmDatosEstudiante.resources
+C:\Users\hdbow\OneDrive\UASD\2017-01\Programacion IV\Asignaciones\SINS\SINS\obj\Debug\SINS.frmLogin.resources
+C:\Users\hdbow\OneDrive\UASD\2017-01\Programacion IV\Asignaciones\SINS\SINS\obj\Debug\SINS.frmDatosProfesor.resources
+C:\Users\hdbow\OneDrive\UASD\2017-01\Programacion IV\Asignaciones\SINS\SINS\obj\Debug\SINS.frmReport.resources
+C:\Users\hdbow\OneDrive\UASD\2017-01\Programacion IV\Asignaciones\SINS\SINS\obj\Debug\SINS.Usuarios.frmPermisos.resources
+C:\Users\hdbow\OneDrive\UASD\2017-01\Programacion IV\Asignaciones\SINS\SINS\obj\Debug\SINS.frmVerUsuarios.resources
+C:\Users\hdbow\OneDrive\UASD\2017-01\Programacion IV\Asignaciones\SINS\SINS\obj\Debug\SINS.Properties.Resources.resources
+C:\Users\hdbow\OneDrive\UASD\2017-01\Programacion IV\Asignaciones\SINS\SINS\obj\Debug\SINS.csproj.GenerateResource.Cache
+C:\Users\hdbow\OneDrive\UASD\2017-01\Programacion IV\Asignaciones\SINS\SINS\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hdbow\OneDrive\UASD\2017-01\Programacion IV\Asignaciones\SINS\SINS\obj\Debug\SINS.csproj.AssemblyReference.cache
+C:\Users\hdbow\OneDrive\UASD\2017-01\Programacion IV\Asignaciones\SINS\SINS\obj\Debug\SINS.csproj.SuggestedBindingRedirects.cache
+C:\Users\hdbow\OneDrive\UASD\2017-01\Programacion IV\Asignaciones\SINS\SINS\obj\Debug\SINS.csproj.CoreCompileInputs.cache
+C:\Users\hdbow\OneDrive\UASD\2017-01\Programacion IV\Asignaciones\SINS\SINS\obj\Debug\SINS.csproj.CopyComplete
